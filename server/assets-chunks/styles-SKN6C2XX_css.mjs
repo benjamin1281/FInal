@@ -1,0 +1,2 @@
+export default `:root{--color-light: #E6CCFF;--color-mid: #B366FF;--color-dark: #6600CC;--white: #ffffff}body{font-family:Segoe UI,sans-serif;margin:0;padding:0;background-color:var(--white);color:var(--color-dark)}.btn-primary{background-color:var(--color-dark);color:var(--color-light);border:none;padding:8px 16px;border-radius:4px;cursor:pointer;transition:.3s}.btn-primary:hover{background-color:var(--color-mid);color:var(--white)}
+`;
